@@ -3,7 +3,7 @@ Fundamental Components of Ansible:
 
 Developers: Local Systems
 
-Machine complete tasks as fast as they could : 
+Machine complete tasks as fast as they could :
 YAML : Machine interaction language for Ansible
 
 Ansible Invenotry:  is a collection of hosts, sorted in groups :
@@ -20,4 +20,4 @@ Conditional Statements : Variables are used in configuration files.
 
 How ansible should connect to particular hosts.
 Varibales can be expressed in invenotory files.
-They can be
+They can be modified 
