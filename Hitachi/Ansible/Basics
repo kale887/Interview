@@ -1,0 +1,23 @@
+Simple IT Automation Engine:
+Fundamental Components of Ansible:
+
+Developers: Local Systems
+
+Machine complete tasks as fast as they could : 
+YAML : Machine interaction language for Ansible
+
+Ansible Invenotry:  is a collection of hosts, sorted in groups :
+
+Hostname or IP address : Name of the host : As it grows Ansible Groups are used
+
+Purpose , locality or operating systems :
+
+Patterns supports wild cards :
+
+Ansible supports multiple inventories : Testing in dev and deploying in prod simply changing
+
+Conditional Statements : Variables are used in configuration files.
+
+How ansible should connect to particular hosts.
+Varibales can be expressed in invenotory files.
+They can be
