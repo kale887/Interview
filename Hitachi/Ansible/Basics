@@ -20,4 +20,4 @@ Conditional Statements : Variables are used in configuration files.
 
 How ansible should connect to particular hosts.
 Varibales can be expressed in invenotory files.
-They can be modified 
+They can be modified

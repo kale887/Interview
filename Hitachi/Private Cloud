@@ -1,0 +1,27 @@
+Design a private cloud :
+
+Large number of hosts and guests: 90% of servers are vm.
+
+Things to consider : Storage Bandwidth Uptime Monitoring and Scalability
+
+Storage: File system type - Hypervisor - Storage Utility 
+think about quantity of storage : Estimate of how much space you need.
+Think about speed : fastest storage you can afford.
+
+Bandwidth : SAN : - Put traffic on network , see if current n/w has sufficient bandwidth
+Local and Remote : Live migration is the key : Time frame is adequate
+
+Uptime Goal : 99.99% : Number of hosts : All guests should be on node then
+Move guest from host 1 to host 2  for maintain.
+
+Power outage : Host at 2 different location : Sufficient hosts at 2 different location
+in the event of disaster
+
+Scalability : For future how many vm we need next years or in 5 years.?
+Cloud is adaptbily : Ballpark of how many hosts and storage and network demands estimates are important
+
+Hyper-V , SCVM manager,
+Vmware : Vsphere ESxi - type1 , vMotion live
+DRS - Auto balance loads across hosts
+vCloud Director - provision new guests quickly
+VCloud Suite - all the above

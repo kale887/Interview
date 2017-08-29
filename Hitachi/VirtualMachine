@@ -1,0 +1,20 @@
+Live migration : Move vm to different host, little or low impact on end users
+
+Not all hypervisor support : Its just data in the memory of computer like
+word processing document in memory of computer
+VM are large amounts of data : It takes amount time size and bandwidth with 2 host
+
+Schedule downtime : Manual or automatic : Constantly monitor with the host and
+guest machines out of that host.
+Healthy host crash
+
+Much bandwidth
+
+Save the state of vm point in time and we can return to that state.
+Revert it back to save state : Save points : Called snapshots or Checkpoints
+Are saved state of virtual machine to revert.
+Uses : Service pack -> test functionality
+Cons : 50 gig snapshot takes spaces as hard-drive
+5 snapshots take 6 times more space.
+Lazy write : Changes made and make a note of it and
+Keep snapshot less than 24 hours. Test and delete 

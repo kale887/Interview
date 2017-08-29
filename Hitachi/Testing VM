@@ -1,0 +1,20 @@
+2 types of test env
+
+Permanent Test Enviorment : E-commerece website
+
+Test infra - Advantages of test env - Snapshot and checkpoints:
+
+On physical server : Easy to rollback using snapshot
+Scaling of hardware : How many user it can handle or load 1 Processor to 4
+Load testing to get good understanding of additional users.
+
+Production in VM : Clone the Production Servers : Sensitive data should
+
+Temp testing : Evaluate for 90 days to make final decision to buy.
+
+Virtualization is good option : Turn up 1 new VM and install new accounting software
+
+Go to public cloud : rather than buy new hardware for 3 months, rent a servers
+
+AWS : monthly rates
+EC2 spot instances : hourly rates .. for short testing 

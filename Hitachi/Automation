@@ -1,0 +1,22 @@
+How many CPU
+How many servers
+Virtual Machines : Making a backup and cloning
+Emulated Hardware
+Same OS
+
+Why VM : Server consolidation : Increasing CPU utilization 60 to 80%
+Hardware Independence : Same VM can run on multiple hardware types without any changes in VMachine
+Provide better mobility and duplication 
+Reduce downtime : Live VM can be moved
+Automation of Development and Production
+
+Platform that Vitrual Machine runs on are Hypervisor : Scheduling the CPU, each vm machines gets cpu
+Share physical memory
+Scuzy Controller, usb controllers ,
+
+2 types of Hypervisor : Baremetal and
+Example ESxi : Citrix Zenserver
+Less overhead and better performance
+
+HOsted Hypervisor: less performance provide much flexibility and easier management
+Vmware fusion : Vmware Workstation

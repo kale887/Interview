@@ -1,0 +1,27 @@
+Just in time resources :
+
+Processor : The number of p change v often - they are fixed.
+Advance : can change speed of processor: Present faster as per requirments
+More processing power by slowing down when not needed
+
+Memory : Dynamic memory RAM : Minimum amount of ram specified 
+
+Save Energy : Big benefit for company : Helps scale DC :
+Enough power to add more servers.
+We buy less hardware that means less energy is consumed.
+20 power supplies 20 hard drive 20 mother board.
+
+VM route : 1 power piece of hardware and 20 VM on 1 servers
+results should be energy consumed is less.
+
+Auto speed up: Monitor of energy consumption
+
+-----Disadvantages of VM----------
+Increase complexity : Network , Storage and Troubleshooting
+Load on network inscreased.
+Lots of packet flowing around our network.
+Virtual Network Devices : Switch
+Clone or duplicate : 2 VM with duplicated IP and MAC addresses.
+Throughput : SAN - Increase the quantity of storage : Large storage required and quality
+
+The bottelneck is storage subsystem.
